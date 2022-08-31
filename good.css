@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(41, 42, 42);
+    padding: 50px;
+    font-family: 'Lobster', cursive;
+}
+.avatar{
+border-radius: 120%;
+   /* border-radius: 120px;  */
+}
+h2{
+    font-family: 'Lobster', cursive;
+    color: rgb(219, 186, 189);
+    font-size: larger;
+    font-style: unset;  
+}
+p{
+    font-family: cursive;
+    color:aliceblue 
+  
+}
+
+.button{
+    font-family: cursive;
+margin-bottom: 10px;
+background-color: rgb(97, 97, 97);
+border: 0;
+width: 300px;
+padding: 8px 0 8px 0;
+border-radius: 30px;
+}
